@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "enderchestquick",
+  "version": "${version}",
+  "name": "Ender Chest Quick Transfer",
+  "description": "Mauszeiger auf ein Item + Taste I: das Item landet direkt in deiner Ender Chest, ohne sie zu öffnen (Ender Chest muss in Reichweite sein). Nur Client-Mod, funktioniert auf jedem Server.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["de.enderchestquick.EnderChestQuickClient"]
+  },
+  "accessWidener": "enderchestquick.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key.category.enderchestquick.main": "Ender Chest Quick Transfer",
+  "key.enderchestquick.store": "Send item to Ender Chest",
+  "message.enderchestquick.nothing": "No item under the cursor / in hand.",
+  "message.enderchestquick.nochest": "No usable Ender Chest in reach.",
+  "message.enderchestquick.sneaking": "Stop sneaking to use the Ender Chest transfer.",
+  "message.enderchestquick.unsupported": "This slot is not supported.",
+  "message.enderchestquick.already": "That item is already in the Ender Chest.",
+  "message.enderchestquick.inventory_full": "Inventory is full, item could not be moved.",
+  "message.enderchestquick.failed": "Could not open the Ender Chest (block above it?).",
+  "message.enderchestquick.moved": "Ender Chest: %s x%s",
+  "message.enderchestquick.partial": "Ender Chest full: only %s of %s moved"
+}

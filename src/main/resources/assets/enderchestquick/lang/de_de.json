@@ -1,0 +1,13 @@
+{
+  "key.category.enderchestquick.main": "Ender Chest Schnelltransfer",
+  "key.enderchestquick.store": "Item in Ender Chest legen",
+  "message.enderchestquick.nothing": "Kein Item unter dem Mauszeiger / in der Hand.",
+  "message.enderchestquick.nochest": "Keine nutzbare Ender Chest in Reichweite.",
+  "message.enderchestquick.sneaking": "Nicht schleichen, um den Ender-Chest-Transfer zu nutzen.",
+  "message.enderchestquick.unsupported": "Dieser Slot wird nicht unterstützt.",
+  "message.enderchestquick.already": "Das Item liegt schon in der Ender Chest.",
+  "message.enderchestquick.inventory_full": "Inventar voll, Item konnte nicht verschoben werden.",
+  "message.enderchestquick.failed": "Ender Chest konnte nicht geöffnet werden (Block darüber?).",
+  "message.enderchestquick.moved": "Ender Chest: %s x%s",
+  "message.enderchestquick.partial": "Ender Chest voll: nur %s von %s verschoben"
+}
